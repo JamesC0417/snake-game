@@ -1,0 +1,19 @@
+
+> snake-game@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.3.5 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 588ms
+✓ Running next.config.ts took 51ms
+
+ GET / 200 in 2.1s (next.js: 1879ms, application-code: 185ms)
+✓ Compiled in 166ms
+ GET / 200 in 53ms (next.js: 17ms, application-code: 35ms)
+ GET / 200 in 29ms (next.js: 10ms, application-code: 18ms)
+✓ Compiled in 60ms
+ GET /?id=8989dc2c-37c0-4a7d-b61a-462654bae5fa&vscodeBrowserReqId=1789529628020 200 in 56ms (next.js: 4ms, application-code: 52ms)
+✓ Compiled in 68ms
+ GET / 200 in 66ms (next.js: 12ms, application-code: 54ms)
+ GET /?id=8989dc2c-37c0-4a7d-b61a-462654bae5fa&vscodeBrowserReqId=1789529628020 200 in 27ms (next.js: 6ms, application-code: 21ms)
